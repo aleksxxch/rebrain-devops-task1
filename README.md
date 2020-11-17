@@ -20,11 +20,17 @@ Since it is just for Readme, there is only config wich you can copy to your blan
 
 ## Code examples
 Install nginx in your Linux distro
+
 for Debian-based:
+
 `sudo apt update && sudo apt install nginx`
+
 for Redhat-based:
+
 `sudo yum install epel-release`
+
 `sudo yum install nginx`
+
 
 ## Status
 Project is in status: _in progress_
