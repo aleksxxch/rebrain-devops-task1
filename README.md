@@ -1,10 +1,10 @@
 # Rebrain task 04
 
 ## Table of Contents
-* [General Info](#General Info)
+* [General Info](#general-info)
 * [Technologies](#Technologies)
 * [Launch](#Launch)
-* [Code examples](#Code examples)
+* [Code examples](#code-examples)
 * [Status](#Status)
 * [Inspiration](#Inspiration)
 
